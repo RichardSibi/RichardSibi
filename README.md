@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RichardSibi
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on python based projects
+- 📫 ricsib321@gmail.com
